@@ -9,7 +9,6 @@ Hi, I'm **Juan Osorio**, a *Computer Science* student at **Boise State Universit
 
 ## Projects
 | Project | Description |
-|---------|-------------|
 | [hello-world](https://github.com/juanandresosorio12345-cloud/hello-world) | My first GitHub repository |
 | [This site](https://github.com/juanandresosorio12345-cloud/juanandresosorio12345-cloud.github.io) | My personal GitHub Page |
 
